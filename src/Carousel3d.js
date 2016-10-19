@@ -10,8 +10,8 @@
   'use strict';
 
   var $ = window.jQuery;
-  var ChildrenWrapper = require('./ChildrenWrapper');
-  var Child = require('./Child');
+  var ChildrenWrapper = require('./childrenWrapper');
+  var Child = require('./child');
 
   /**
    * constructor
